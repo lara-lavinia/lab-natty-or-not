@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Se desconectando das Redes Sociais com Snoopy e Charlie Brown ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Uma HQ curtinha falando um pouco sobre se desconectar das redes sociais e o benefício de viver na vida real 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+A única IA Generativa usada foi o ChatGPT
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+Primeiro eu defini um tema : Desapegando das redes sociais
+Escolhi quais meios iria repassar esse tema: se seria por vídeo, imagem ou aúdio
+Depois eu fui testando em qual IA dava mais certo de me adaptar e testar o uqe eu queria criar e acabei ficando com o bom e velho ChatGPT
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+(https://chatgpt.com/s/m_6a063b25c13c8191b7032c150f4101b1)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Se compararmos o desenho original de Peanuts e a HQ criada com IA, podemos perceber poucas diferenças do desenho oficial, por isso eu considero esse projeto um Natty, já que é identico as HQs que tinha no Jornal impresso antigamente
 ```
 
 ### Exemplos e Insigths
